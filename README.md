@@ -14,7 +14,6 @@
 
 <h3 align="left">Installation : cloner le projet puis lancer un IDE IntelliJ et pour Run l'application suivre les étapes suivantes :  
 
-  - avoir une BDD et suivre les consignes du fichier properties
   - compiler le fichier main
 </h3>
 
