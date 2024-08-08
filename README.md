@@ -1,4 +1,4 @@
-# Projet Java
+# Projet Java-Advanced
 
 Objectif découvrir les threads
 - Sur les fichiers
