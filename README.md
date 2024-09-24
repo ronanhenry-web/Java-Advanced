@@ -1,21 +1,21 @@
-# Projet Java-Advanced
+# Java-Advanced Project
 
-Objectif découvrir les threads
-- Sur les fichiers
-- La réflexibilité
-- Les annotations
-- Les lambda 
-- Les streams
-- L'API Datetime
-- Sur Swing
+Goal: Discover threads
+- With files
+- Reflection
+- Annotations
+- Lambdas
+- Streams
+- DateTime API
+- With Swing
 
-## Démarrer
+## Getting Started
 
-Le projet a été créé sous IntelliJ, pour le démarrer suivre les étapes suivantes.
+The project was created in IntelliJ. To start it, follow these steps :
 
-- Cloner le projet
-- Compiler le fichier main
+- Clone the project
+- Compile the main file
 
-## Sources & Outils
+## Sources & Tools
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
